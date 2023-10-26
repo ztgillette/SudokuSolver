@@ -1,0 +1,3 @@
+/Users/ztgillette/CLionProjects/SFMLtutorial/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/Users/ztgillette/CLionProjects/SFMLtutorial/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/Users/ztgillette/CLionProjects/SFMLtutorial/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
